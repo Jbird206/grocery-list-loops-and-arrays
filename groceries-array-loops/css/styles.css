@@ -1,0 +1,38 @@
+h1 {
+  text-align: center;
+  margin: 20px;
+}
+
+h4 {
+  margin-bottom: 20px;
+  border-top: 3px solid #ebebeb;
+  border-bottom: 3px solid #ebebeb;
+  padding: 10px 20px;
+  text-align: center;
+}
+
+div.title {
+  display: flex;
+  justify-content: center;
+}
+
+.container {
+  background-color:#e0fbff;
+  padding: 30px;
+}
+
+button.submit {
+  width: 100px;
+}
+
+div.section {
+  margin: 40px 0;
+  border: 3px solid #17A2B8;
+  border-radius: 5px;
+  padding: 30px;
+  background-color: white;
+}
+
+#groceryInput {
+  display: show;
+}
